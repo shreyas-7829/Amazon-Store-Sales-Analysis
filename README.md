@@ -79,8 +79,8 @@ The final Power BI dashboard delivers comprehensive insights into Amazon store s
 
 ---
 ## SNAPSHOT OF DASHBOARD
+![Screenshot 2025-01-13 181929](https://github.com/user-attachments/assets/11a2f73d-6795-4e57-8536-ba30308d3540)
 
 ## Contact  
-For any questions or feedback, feel free to reach out via:  
-- **Email**: your.email@example.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- **Email**: shreyasnataraj4@gmail.com 
+- **LinkedIn**: https://www.linkedin.com/in/shreyas-n-6a9107239/   
